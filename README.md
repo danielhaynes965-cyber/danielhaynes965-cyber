@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hey, I'm Daniel 👋
 
-<!--
-**danielhaynes965-cyber/danielhaynes965-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 17-year-old Australian student building toward a career in offensive 
+security and penetration testing. Currently in the foundations stage — working 
+through TryHackMe, building my first tools, and developing the skills to compete 
+in CTFs at an elite level.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Current Focus
+- Completing THM Junior Pentester path
+- Building this portfolio (writeups, notes, tools)
+- Preparing for HTB and CTF competition (mid-2026)
+- OSCP target: 2028
+
+---
+
+## 🧰 Skills & Tools
+**Systems:** Kali Linux, Ubuntu, Windows  
+**Languages:** Python, Bash  
+**Security:** Burp Suite, Nmap, John the Ripper, Hashcat  
+**Concepts:** Networking, OWASP Top 10, Recon, Enumeration, Cryptography
+
+---
+
+## 📁 Portfolio
+Everything I'm building is documented here:  
+→ [cybersecurity-portfolio](https://github.com/danielhaynes965-cyber/cybersecurity-portfolio)
+
+---
+
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/daniel-h-506933392)
